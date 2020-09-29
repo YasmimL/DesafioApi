@@ -1,0 +1,19 @@
+.create-client {
+  display: flex;
+  width: 50%;
+  align-content: center;
+  margin: 2rem auto;
+}
+
+.create-client .dateOfBirth {
+  width: 24%;
+}
+
+.return {
+  display: flex;
+  justify-content: center;
+}
+
+.return button {
+  margin: 0.25rem;
+}
